@@ -1,0 +1,1 @@
+A program that simulates a robot doing the dishes. It is given axioms and fluents to create different types of actions to simulate the process of cleaning dishes like scrubbing, or turn on faucet. Each item also has different status like a dish can be soap, dirty, or wet. The program outputs a list of actions to accomplish a specified goal state.
